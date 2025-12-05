@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .venv
 data_out/US.csv
+__pycache__/
+*.pyc
