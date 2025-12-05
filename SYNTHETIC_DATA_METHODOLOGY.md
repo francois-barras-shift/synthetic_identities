@@ -76,7 +76,7 @@ generator: Faker = random.choices([fake_US, fake_MX, fake_IN], weights=[0.7, 0.2
 
 **2. Name Components**
 
-- **Prefixes**: Mr., Mrs., Ms., Miss, Dr., Mx., Ind., Misc. (20% probability)
+- **Prefixes**: Mr., Mrs., Ms., Miss, Dr., Mx., Ind. (Individual), Misc. (20% probability)
 - **Suffixes**: MD, DDS, PhD, DVM, Jr., II, III, IV, V (if prefix not present)
 - **Middle names**: 50% of individuals have a middle name
 
