@@ -210,7 +210,6 @@ c → s      (Cynthia → Synthia)
 
 | Distortion Type | Probability | Example |
 |-----------------|-------------|---------|
-| Set to default | 25% | Any date → `1970-01-01` |
 | Swap month/day | 15% | `03/15/1990` → `15/03/1990` |
 | Swap day digits | 10% | `23` → `32` (if valid) |
 | Off by one year | 10% | `1990` → `1989` or `1991` |
